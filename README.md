@@ -39,7 +39,7 @@ This dataset is for non-commercial use only. All of the RGB-D-D Dataset are copy
 Because the RGB-D-D contains a lot of personal information of the collectors, and the RGB-D-D dataset is available for the academic purpose only. So please download the [Release Agreement](doc/ReleaseAgreement.pdf), read it carefully, and complete it appropriately. Note that the agreement needs a handwritten signature by a full-time staff member (that is mean student is not acceptable). We will only take applications from organization email (please DO NOT use the emails from gmail/163/qq). Anyone who uses the RGB-D-D dataset should obey the agreement and send us an email for registration. Please scan the signed agreement and send it to Mepro_BJTU@hotmail.com. Then we will verify your request and contact you on how to download the data.
 
 ## Citation
-If you use our dataset, please cite:
+If this codebase is useful to you, please consider citing:
 ```
 @inproceedings{he2021towards,
   title={Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline},
